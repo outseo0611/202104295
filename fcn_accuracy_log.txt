@@ -1,0 +1,1 @@
+Test accuracy (FCN): 0.9783
